@@ -1,0 +1,38 @@
+0 procedure s(a,b,c);
+
+1 var r,h;
+
+2 begin
+
+3 r:=a+b;
+
+7 r:=r+c;
+
+11 write(r)
+
+13 end;
+
+15 procedure p(a,b,c);
+
+15 var r,h,e;
+
+16 begin
+
+17 r:=a+b;
+
+21 h:=r+c;
+
+25 write(h)
+
+27 end;
+
+29 
+
+29 begin
+
+30  call s(2*3,4,5);
+
+37  call p(2,3,4)
+
+40 end.
+

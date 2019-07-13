@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1562414024 source:c:\users\administrator\desktop\实验4 编译器\exp4\main.c
+	<stdio.h>
+	"pl0.h"
+	<string.h>
+
+1562399384 c:\users\administrator\desktop\实验4 编译器\exp4\pl0.h
+

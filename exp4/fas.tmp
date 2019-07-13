@@ -1,0 +1,13 @@
+    2 var   a lev=1 addr=3
+    3 var   b lev=1 addr=4
+    4 var   c lev=1 addr=5
+    5 var   r lev=1 addr=6
+    6 var   h lev=1 addr=7
+    3 var   a lev=1 addr=3
+    4 var   b lev=1 addr=4
+    5 var   c lev=1 addr=5
+    6 var   r lev=1 addr=6
+    7 var   h lev=1 addr=7
+    8 var   e lev=1 addr=8
+    1 proc  s lev=0 addr=2 size=8
+    2 proc  p lev=0 addr=16 size=9
